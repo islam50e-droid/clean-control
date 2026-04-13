@@ -7,7 +7,7 @@ import {
 } from 'lucide-react';
 
 // --- Gemini API Integration ---
-const apiKey = ""; 
+const apiKey = "AIzaSyAYaLlkQLbVwtBIyStYGHxKpYvmrx2OZ7s"; 
 
 async function callGemini(prompt, systemInstruction = "") {
   try {
